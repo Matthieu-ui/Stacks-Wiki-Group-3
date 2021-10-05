@@ -23,3 +23,5 @@ The above list is in no way comprehensive, nor does it represent concrete roles 
 Performing a specific role DOES NOT mean that you do not have to write a wiki page in addition to your role.
 
 Even though this is a group assignment, each team member will be graded individually based on their contribution to the wiki (their page).
+
+Slowly figuring this out!!
