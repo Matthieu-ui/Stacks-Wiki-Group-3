@@ -2,7 +2,7 @@
 What Stack Should I choose, And Why
 
 Project name: Stacks-Wiki-Group-3
-What Stack Should I choose, And Why
+Topic: What Stack Should I choose, And Why
 
 Description: A Group GitHub repository for the assignment
 A multi-page wiki (one page per group member)
@@ -18,6 +18,7 @@ Team Lead
 Editor
 Researcher
 Repo/Wiki Owner
+
 The above list is in no way comprehensive, nor does it represent concrete roles that MUST be assigned.
 
 Performing a specific role DOES NOT mean that you do not have to write a wiki page in addition to your role.
@@ -25,3 +26,5 @@ Performing a specific role DOES NOT mean that you do not have to write a wiki pa
 Even though this is a group assignment, each team member will be graded individually based on their contribution to the wiki (their page).
 
 Slowly figuring this out!!
+
+Testing - H
