@@ -11,11 +11,11 @@
          
                                                
                                                                                 
-Project name: Stacks-Wiki-Group-3
+**Project name:** Stacks-Wiki-Group-3
 
-Topic: What Stack Should I choose, And Why
+**Topic:** What Stack Should I choose, And Why
 
-Description: A Group GitHub repository for the assignment
+**Description:** A Group GitHub repository for the assignment
 
 * A multi-page wiki (one page per group member)
 
@@ -26,7 +26,7 @@ Description: A Group GitHub repository for the assignment
 * Final Deliverable is the URL of the home page. ALL GROUP MEMBERS MUST TURN IN THE LINK SEPARATELY!
 
 
-Group Roles: 
+**Group Roles:**
 
 Your group may or may not want to consider assigning/volunteering for one or more of the following roles for this wiki project:
 
