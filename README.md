@@ -1,4 +1,16 @@
-# Stacks-Wiki-Group-3
+                         
+                         
+         Group 3                                    
+          _    _  _____  _   __ _____          
+         | |  | ||_   _|| | / /|_   _|         
+         | |  | |  | |  | |/ /   | |           
+         | |/\| |  | |  |    \   | |           
+         \  /\  / _| |_ | |\  \ _| |_ 
+          \/  \/  \___/ \_| \_/ \___/ 
+          
+         
+                                               
+                                                                                
 What Stack Should I choose, And Why
 
 Project name: Stacks-Wiki-Group-3
@@ -25,6 +37,3 @@ Performing a specific role DOES NOT mean that you do not have to write a wiki pa
 
 Even though this is a group assignment, each team member will be graded individually based on their contribution to the wiki (their page).
 
-Slowly figuring this out!!
-
-Testing - H
